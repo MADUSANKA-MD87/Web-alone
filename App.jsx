@@ -5,7 +5,7 @@ function App() {
   const botLink = "https://madusanka-md-production.up.railway.app/";
   
   // ashi code by ===> channel link setup
-  const channelLink = "https://whatsapp.com/channel/0029Vb7p3UCCHDyocfEGm23f";
+  const channelLink = "https://whatsapp.com/channel/0029Vb7Lf8I9sBI8QXTIZv1P";
   
   // ashi code by ===> group Link setup
   const groupLink = "https://chat.whatsapp.com/I7eReF73VGu4EU9kF9w4uS";
