@@ -2,7 +2,7 @@
 function App() {
   
   // ashi code by ===> your bot link setup 
-  const botLink = "https://madusanka-md-production.up.railway.app/";
+  const botLink = "https://madusanka-md-production-917f.up.railway.app";
   
   // ashi code by ===> channel link setup
   const channelLink = "https://whatsapp.com/channel/0029Vb7Lf8I9sBI8QXTIZv1P";
