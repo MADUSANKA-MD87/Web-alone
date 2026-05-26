@@ -63,7 +63,7 @@ function App() {
         <img src="src/madu-banner-logo.jpg.png" alt="banner" />
      </div>
   <div className="bot-text">
-    <h1>WELCOME TO ༺ ALONE X MD ꙰༻ V.5 MINI BOT</h1>
+    <h1>WELCOME TO ༺ ALONE X MD ꙰༻ V.6 MINI BOT</h1>
      <p>༺ ALONE X MD ꙰༻ Mini BOT makes your WhatsApp experience easier, faster, and more automated.</p>
    </div> 
      
