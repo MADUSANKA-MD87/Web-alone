@@ -57,11 +57,6 @@ function App() {
    { /* OVERLAY */ }
    <div className="overlay" id="overlay" onClick={toggleMenu}></div>
 
-      <!-- Video Background -->
-  <video class="video-background" id="bgVideo" autoplay muted loop>
-    <source src="https://files.catbox.moe/dggveb.mp4" type="video/mp4">
-    Your browser does not support HTML5 video.
-  </video>
    
    <div className="main">
      <div className="image">
