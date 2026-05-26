@@ -2,7 +2,7 @@
 function App() {
   
   // ashi code by ===> your bot link setup 
-  const botLink = "https://madusanka-md-production-2f65.up.railway.app";
+  const botLink = "https://madusanka-md-production-0a68.up.railway.app";
   
   // ashi code by ===> channel link setup
   const channelLink = "https://whatsapp.com/channel/0029Vb7Lf8I9sBI8QXTIZv1P";
@@ -11,7 +11,7 @@ function App() {
   const groupLink = "https://chat.whatsapp.com/I7eReF73VGu4EU9kF9w4uS";
   
   // ashi code by ===> Contact Link setup
-  const ownerLink = "https://wa.me/+94756331255?text=*Hey_༺ ALONE X MD ꙰༻_owner 👋*";
+  const ownerLink = "https://wa.me/+94773495139?text=*Hey_༺ ALONE X MD ꙰༻_owner 👋*";
   
   
   // ======= code ahiya menu by open / close code
@@ -91,7 +91,7 @@ function App() {
  </div>
  
 <div className="footer">
-  <p>&copy; 2026 POWERED BY ༺ ALONE X MD ꙰༻ MINI BOT</p>
+  <p>&copy; 2025 POWERED BY ༺ ALONE X MD ꙰༻ MINI BOT</p>
 </div>
   </>)
   }
