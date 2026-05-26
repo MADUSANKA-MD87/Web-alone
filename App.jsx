@@ -38,7 +38,7 @@ function App() {
 
         {/* MENU */}
         <nav className="menu">
-          <img src="src/madu-logo.jpg"></img>
+          <img src="src/madu-logo.jpg.png"></img>
           <h3>&lt;/&gt; MADUSANKA Dev</h3>
           <span></span>
           <a href="#App.jsx"><i className="fa-solid fa-house"></i> Home</a>
@@ -60,7 +60,7 @@ function App() {
    
    <div className="main">
      <div className="image">
-        <img src="src/madu-banner-logo.jpg" alt="banner" />
+        <img src="src/madu-banner-logo.jpg.png" alt="banner" />
      </div>
   <div className="bot-text">
     <h1>WELCOME TO ༺ ALONE X MD ꙰༻ V.5 MINI BOT</h1>
