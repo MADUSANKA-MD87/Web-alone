@@ -27,7 +27,7 @@ function App() {
     return (<>
     <header>
         <div className="logo">
-          <img src="src/madu-logo.jpg" alt="logo" />
+          <img src="src/madu-logo.jpg.png" alt="logo" />
         </div>
 
        <div className="brand-text">
