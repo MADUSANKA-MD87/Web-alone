@@ -11,7 +11,7 @@ function App() {
   const groupLink = "https://chat.whatsapp.com/I7eReF73VGu4EU9kF9w4uS";
   
   // ashi code by ===> Contact Link setup
-  const ownerLink = "https://wa.me/+94779357798?text=*Hey_༺ ALONE X MD ꙰༻_owner 👋*";
+  const ownerLink = "https://wa.me/+94756331255?text=*Hey_༺ ALONE X MD ꙰༻_owner 👋*";
   
   
   // ======= code ahiya menu by open / close code
